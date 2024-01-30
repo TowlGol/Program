@@ -1,0 +1,20 @@
+{
+    "infoList": [
+        {
+            "panelTypeString": "BasicMenu",
+            "path": "Prefabs/XCMG-UI/BasicMenu"
+        },
+        {
+            "panelTypeString": "BasicTools",
+            "path": "Prefabs/XCMG-UI/BasicTools"
+        },
+        {
+            "panelTypeString": "BrushTools",
+            "path": "Prefabs/XCMG-UI/BrushTools"
+        },
+        {
+            "panelTypeString": "Database",
+            "path": "Prefabs/XCMG-UI/Database"
+        }
+    ]
+}
